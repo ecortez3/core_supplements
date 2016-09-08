@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Core Supplements</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -42,7 +42,7 @@
             </div>
 <br>
 	    <div class="content">
-		<div class="body"> This part should be the the carousel </div>
+		<div class="body"> Carousel for deals images </div>
 	    </div>
         </div>
     </body>
